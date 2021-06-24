@@ -4,4 +4,6 @@
 
 Gamepad test program for PC Engine
 
-pce_grp.bmp : BGのビットマップ画像ファイル。
+test.c : source file
+test.pce : ROM image file
+pce_grp.bmp : bitmap file。これを元にbg_bat.bin、bg_palette.bin、bg_pattern.binを生成します
