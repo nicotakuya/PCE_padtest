@@ -4,3 +4,4 @@
 
 Gamepad test program for PC Engine
 
+pce_grp.bmp : BGのビットマップ画像ファイル。
