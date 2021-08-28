@@ -12,8 +12,14 @@ Gamepad test program.
 
 ## files
 
-test.c : source file.
+test.c : C source file.
 
 test.pce : ROM image file.
 
 pce_grp.bmp : bitmap resource file.
+
+## how to build
+
+please setup HuC(PC Engine SDK).
+
+let's run '_build.bat'.
